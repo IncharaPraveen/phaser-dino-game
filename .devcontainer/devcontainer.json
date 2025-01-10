@@ -1,0 +1,8 @@
+{
+    "name": "Phaser Game Development",
+    "build": {
+      "dockerfile": "Dockerfile"
+    },
+    "workspaceFolder": "/workspace"
+  }
+  
